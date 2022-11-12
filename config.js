@@ -1,7 +1,7 @@
-const {privConKey} = require('./privcon');
-const {privConSecret} = require('./privcon');
-const {privConToken} = require('./privcon');
-const {privConTokenSecret} = require('./privcon');
+const {privConKey} = require('./privcon.js');
+const {privConSecret} = require('./privcon.js');
+const {privConToken} = require('./privcon.js');
+const {privConTokenSecret} = require('./privcon.js');
 
  module.exports = {
     consumer_key: 'privConKey',  
